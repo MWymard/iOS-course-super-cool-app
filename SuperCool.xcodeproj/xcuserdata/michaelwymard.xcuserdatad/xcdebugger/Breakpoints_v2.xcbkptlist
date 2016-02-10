@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SuperCool/ViewController.swift"
+            timestampString = "475600928.522109"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SuperCool.ViewController.cool_bg.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIImageView&gt;"
+                  moduleName = "SuperCool"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/michaelwymard/Desktop/SuperCool/SuperCool/ViewController.swift"
+                  timestampString = "475601562.521225"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SuperCool.ViewController.cool_bg.materializeForSet : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIImageView&gt;"
+                  moduleName = "SuperCool"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/michaelwymard/Desktop/SuperCool/SuperCool/ViewController.swift"
+                  timestampString = "475601562.52151"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SuperCool.ViewController.init (SuperCool.ViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; SuperCool.ViewController"
+                  moduleName = "SuperCool"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/michaelwymard/Desktop/SuperCool/SuperCool/ViewController.swift"
+                  timestampString = "475601562.526614"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "156">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SuperCool.ViewController.init (SuperCool.ViewController.Type)(coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;SuperCool.ViewController&gt;"
+                  moduleName = "SuperCool"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/michaelwymard/Desktop/SuperCool/SuperCool/ViewController.swift"
+                  timestampString = "475601562.526911"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "88">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
